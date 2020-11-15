@@ -3,15 +3,10 @@ PyGame Starter
 
 ## App.py
 
-Main application, Init Game and Settings classes
-
-## Settings.py
-
-Some game settings. Width, height, fps, title.
-
-## Game.py
-
-Your game is here!
+Start by moving the mod wheel.
+Stop by pressing anything but the mod wheel.
+Restart with middle C (Midi 60)
+Save with middle E (Midi 64)
 
 ## How To ?
 
