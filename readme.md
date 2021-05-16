@@ -1,7 +1,7 @@
-PyGame Starter
+create-lfo-from-mod-wheel
 --------------
 
-## App.py
+Draws an lfo wave to the screen with the y coordinate of the wave equal to the vertical position of the modulo wheel from a synthesizer
 
 Start by moving the mod wheel.
 Stop by pressing anything but the mod wheel.
@@ -11,5 +11,5 @@ Save with middle E (Midi 64)
 ## How To ?
 
 ```bash
-./python app.py
+python app.py
 ```
